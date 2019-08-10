@@ -1,8 +1,8 @@
-#Closure
+# Closure
 ----------
 1.Closure is when function remembers its value ..even when its called outside the lexical scope.
 
-Example
+Example:-
 function foo(){
    var bar = "Its me";
    return function(){ console.log(bar); };
