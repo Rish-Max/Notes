@@ -1,0 +1,29 @@
+Italic :- _t_
+Bold   :- **really**
+
+#Note:- we can use the combination of both also.
+
+Use # like h1 
+    ## like h2
+
+For anchor tag [anchor_Name](anchor_link)  [Visit GitHub](www.github.com)   <a href="www.github.com">Github</a>
+
+image tag ![alternate_Name](anchor_link_to_image) <img src="anchor_link_to_image" alt="alternate_Name">
+
+Quote :- add this > to the paargraph
+
+ul > li ;- use * 
+
+* Castafiore
+    * An opera singer
+        * Has white hair
+            * Is possibly mentally unwell    
+
+Use above for chaining
+
+
+For more Information:-
+---------------------
+https://en.wikipedia.org/wiki/Markdown#Example
+
+
