@@ -1,4 +1,4 @@
-# Closure
+#Closure
 ----------
 1.Closure is when function remembers its value ..even when its called outside the lexical scope.
 
