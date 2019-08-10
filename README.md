@@ -1,2 +1,2 @@
 # Notes
-making notes of topics whatever i will learn
+quick notes of whatever topic I will read
